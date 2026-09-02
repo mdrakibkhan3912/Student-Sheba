@@ -23,7 +23,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 # BOT TOKEN
 # ============================================
 
-BOT_TOKEN = "8731172921:AAEHx3x7_RiK8rHrV6lOe0YmmS7iq1HSnjs"
+BOT_TOKEN = "8982738554:AAGuJKRR_IpQVydSrS9n7qFxGmBnv5JGq8U"
 
 # ============================================
 # ADMIN IDS
